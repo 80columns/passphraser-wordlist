@@ -13,13 +13,11 @@ The ability to copyright a list of words has been the subject of some discussion
 
 In 1991, the US Supreme Court ruled in the case [Feist Publications, Inc., v. Rural Telephone Service Co.](https://en.wikipedia.org/wiki/Feist_Publications,_Inc.,_v._Rural_Telephone_Service_Co.) that copyright can apply only to the creative aspects of a collection. In the [majority opinion](https://supreme.justia.com/cases/federal/us/499/340/) written by Justice Sandra Day O'Connor, she stated:
 
-```
-Where the compilation author adds no written expression, but rather lets the facts speak for themselves, the expressive element is more elusive. The only conceivable expression is the manner in which the compiler has selected and arranged the facts. Thus, if the selection and arrangement are original, these elements of the work are eligible for copyright protection. See Patry, Copyright in Compilations of Facts (or Why the "White Pages" Are Not Copyrightable), 12 Com. & Law 37, 64 (Dec.1990) (hereinafter Patry). No matter how original the format, however, the facts themselves do not become original through association. See Patterson & Joyce 776.
-
-This inevitably means that the copyright in a factual compilation is thin. Notwithstanding a valid copyright, a subsequent compiler remains free to use the facts contained in another's publication to aid in preparing a competing work, so long as the competing work does not feature the same selection and arrangement. As one commentator explains it:
-
-"[N]o matter how much original authorship the work displays, the facts and ideas it exposes are free for the taking. . . . [T]he very same facts and ideas may be divorced from the context imposed by the author, and restated or reshuffled by second comers, even if the author was the first to discover the facts or to propose the ideas."
-```
+> Where the compilation author adds no written expression, but rather lets the facts speak for themselves, the expressive element is more elusive. The only conceivable expression is the manner in which the compiler has selected and arranged the facts. Thus, if the selection and arrangement are original, these elements of the work are eligible for copyright protection. See Patry, Copyright in Compilations of Facts (or Why the "White Pages" Are Not Copyrightable), 12 Com. & Law 37, 64 (Dec.1990) (hereinafter Patry). No matter how original the format, however, the facts themselves do not become original through association. See Patterson & Joyce 776.
+>
+> This inevitably means that the copyright in a factual compilation is thin. Notwithstanding a valid copyright, a subsequent compiler remains free to use the facts contained in another's publication to aid in preparing a competing work, so long as the competing work does not feature the same selection and arrangement. As one commentator explains it:
+>
+> "[N]o matter how much original authorship the work displays, the facts and ideas it exposes are free for the taking. . . . [T]he very same facts and ideas may be divorced from the context imposed by the author, and restated or reshuffled by second comers, even if the author was the first to discover the facts or to propose the ideas."
 
 The creator of the Passphraser word list is not a lawyer, but their understanding of the ruling's implication is that simply replicating a list of words 1:1 from entries in a copyrighted published dictionary would be a copyright violation. Thus the list in this repository has been sourced from another public-domain list which was itself compiled from multiple freely-available sources online. Several lawyers were also consulted before publishing the list in this repository in order to ensure that no copyright violation was being performed.
 
